@@ -1,0 +1,41 @@
+_repo: Shrewsbury--A-Romance_39137
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shepperson, Claude A. (Claude Allin)
+    alias: Shepperson, Claude Allin
+    birthdate: 1867
+    deathdate: 1921
+    gutenberg_agent_id: '9924'
+    url: http://www.gutenberg.org/2009/agents/9924
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Set in the region of England where he was born and raised, Shrewsbury
+  puts Stanley Weyman's literary prowess as a master of historic romance on full display.
+  Packed with plenty of romance and adventure, this novel is sure to please even the
+  most discriminating fans of the genre.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702 -- Fiction'
+title: 'Shrewsbury: A Romance'
+url: http://www.gutenberg.org/ebooks/39137
